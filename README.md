@@ -1,3 +1,5 @@
-[![Kate's GitHub stats](https://github-readme-stats.vercel.app/api?username=esborisova&show_icons=true&theme=radical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esborisova&layout=compact)](https://github.com/esborisova/github-readme-stats)
+🖥️ I am a researcher at the [German Research Center for Artificial Intelligence (DFKI)] (https://www.dfki.de/en/web) in Berlin and a PhD candidate in Computer Science at the [Technical University](https://www.tu.berlin) of Berlin.
+
+🔭 My research primarily deals with scholarly information processing, especially tables and figures understanding in scholarly publications.
